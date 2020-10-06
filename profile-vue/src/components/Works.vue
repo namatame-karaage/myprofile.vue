@@ -25,7 +25,7 @@
           <img src="../assets/images/myprofile.png" alt="myprofile" class="works-img" />
           <h4>MyProfile</h4>
           <p><span class="type-btn">vue.js</span></p>
-          <a href=""><font-awesome-icon :icon="['fab','github']" class="icon-github"/></a>
+          <a href="https://github.com/namatame-karaage/myprofile.vue/tree/master/profile-vue"><font-awesome-icon :icon="['fab','github']" class="icon-github"/></a>
         </div>
       </div>
     </div>
