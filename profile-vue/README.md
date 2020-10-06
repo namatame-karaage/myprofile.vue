@@ -8,5 +8,5 @@
   何かありましたら、お手数ですがメールなど送っていただければと思います。
   レスポンシブ対応もしています。
 
-#　URL
+# URL
 https://myprofile-namatame-fumiya.netlify.app/
