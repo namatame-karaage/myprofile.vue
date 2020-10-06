@@ -6,7 +6,13 @@
   今後は、それを取り入れて、Reactも挑戦していきます。
 
   何かありましたら、お手数ですがメールなど送っていただければと思います。
-  レスポンシブ対応もしています。
 
 # URL
 https://myprofile-namatame-fumiya.netlify.app/
+
+# 使用技術・導入したもの
+- Vue/cli 4.5.4
+- Netlify
+- Vue particles
+- SmoothScroll
+- レスポンシブ対応もしています。
