@@ -27,6 +27,12 @@
           <p><span class="type-btn">vue.js</span></p>
           <a href="https://github.com/namatame-karaage/myprofile.vue/tree/master/profile-vue"><font-awesome-icon :icon="['fab','github']" class="icon-github"/></a>
         </div>
+        <div class="works-card">
+          <img src="../assets/images/noimage.png" alt="myprofile" class="works-img" />
+          <!-- <h4>作成中</h4> -->
+          <p><span class="type-btn">作成中</span></p>
+          <!-- <a href="https://github.com/namatame-karaage/myprofile.vue/tree/master/profile-vue"><font-awesome-icon :icon="['fab','github']" class="icon-github"/></a> -->
+        </div>
       </div>
     </div>
   </div>
